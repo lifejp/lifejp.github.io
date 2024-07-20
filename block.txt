@@ -13,12 +13,6 @@
 
 !-------------------------------------------
 
-m.yahoo.co.jp#$?#a:contains(/大谷翔平|スカッと|モヤっと|バシッと|ズバッと|サラッと|さらっと|ケロッと|ガラッと|スッキリ|すっきり|オ[バジ]サン|お[ばじ]さん|老女|ドン引き|論破|[唖愕騒]然|絶句|口撃|成敗|一喝|見返した|追い詰めた|罵倒|天罰|鉄槌|制裁|痛快|豪快|撃退|反[論撃]|報復|追放|正論|猛省|大迷惑|秀逸|痛快|拍手喝采|気分爽快|神対応|嘲笑|怒号|苦言|逆上|一蹴|復讐|土下座|魔法の言葉|ひと声|発狂|一件落着|悪行|ナイス|悲惨|感動|感激|泣け[たる]|泣いた|泣きそう|涙腺崩壊|嬉し涙|感涙|号泣|涙を呑んだ|共感|の嵐|理由|ワケ|の声|納得|ナットク|驚[き愕]|[衝笑]撃|笑え[るた]|笑った|爆笑|ツッコミ|続出|激[怒昂]|怒り|やべ[えぇ]やつ|むかつく|ムカつく|イライラ|傑作|リピ確定|旦那|姑|義実家|義家族|義祖?[父母姉妹兄弟]|亭主関白|ママ友|ぐうの音|認知症|夫婦仲|腹筋崩壊|憂鬱|ユーウツ|場違い|性悪|オトコ|オンナ|追いライン|既読スルー|ブチ切れ|ブチギレ|モヤモヤ|理不尽|因果応報|メイワク|イチャイチャ|公開処刑|マウント/) { remove: true; }
-
-yahoo.co.jp##a:has-text(/大谷翔平/)
-
-
-
 !TRILLを消滅させる
 !クラシルを消滅させる
 !yahoo.co.jp##a[href*="trilltrill"]
@@ -1598,13 +1592,13 @@ yahoo.co.jp##a[data-cl-params*="-fvision"]
 !yahoo.co.jp##a[data-cl-params*="-spaia"]
 
 !netkeirin
-!yahoo.co.jp##a[data-cl-params*="-nkeirin"]
+yahoo.co.jp##a[data-cl-params*="-nkeirin"]
 
 !BOATRACE
-!yahoo.co.jp##a[data-cl-params*="-spnaviow"]
+yahoo.co.jp##a[data-cl-params*="-spnaviow"]
 
 !マクール(ボートレース）
-!yahoo.co.jp##a[data-cl-params*="-macour"]
+yahoo.co.jp##a[data-cl-params*="-macour"]
 
 !競馬ラボ
 !yahoo.co.jp##a[data-cl-params*="-keibalab"]
@@ -1614,101 +1608,101 @@ yahoo.co.jp##a[data-cl-params*="-fvision"]
 !暴力
 
 !RONSPO
-!yahoo.co.jp##a[data-cl-params*="-ronspo"]
+yahoo.co.jp##a[data-cl-params*="-ronspo"]
 
 !イーファイト
-!yahoo.co.jp##a[data-cl-params*="-gbr"]
+yahoo.co.jp##a[data-cl-params*="-gbr"]
 
 !バトル・ニュース
-!yahoo.co.jp##a[data-cl-params*="-battlen"]
+yahoo.co.jp##a[data-cl-params*="-battlen"]
 
 !ゴング格闘技
-!yahoo.co.jp##a[data-cl-params*="-gkakutogi"]
+yahoo.co.jp##a[data-cl-params*="-gkakutogi"]
 
 !BBM Sports
-!yahoo.co.jp##a[data-cl-params*="-bbmv"]
+yahoo.co.jp##a[data-cl-params*="-bbmv"]
 
 !プロレスTODAY
-!yahoo.co.jp##a[data-cl-params*="-proresut"]
+yahoo.co.jp##a[data-cl-params*="-proresut"]
 
 !*******************************************
 
 !その他
 
 !月刊バレーボール
-!yahoo.co.jp##a[data-cl-params*="-getsuv"]
+yahoo.co.jp##a[data-cl-params*="-getsuv"]
 
 !バレーボールNEXt
-!yahoo.co.jp##a[data-cl-params*="-vbnext"]
+yahoo.co.jp##a[data-cl-params*="-vbnext"]
 
 !バレーボールマガジン
-!yahoo.co.jp##a[data-cl-params*="-vbm"]
+yahoo.co.jp##a[data-cl-params*="-vbm"]
 
 !ラグビーリパブリック(ラグビーマガジン）
-!yahoo.co.jp##a[data-cl-params*="-rugbyrp"]
+yahoo.co.jp##a[data-cl-params*="-rugbyrp"]
 
 !mmotorsport.com
-!yahoo.co.jp##a[data-cl-params*="-msportcom"]
+yahoo.co.jp##a[data-cl-params*="-msportcom"]
 
 !月刊陸上競技
-!yahoo.co.jp##a[data-cl-params*="-getsuriku"]
+yahoo.co.jp##a[data-cl-params*="-getsuriku"]
 
 !FINEPLAY
-!yahoo.co.jp##a[data-cl-params*="-fineplayv"]
+yahoo.co.jp##a[data-cl-params*="-fineplayv"]
 
 !Rallys
-!yahoo.co.jp##a[data-cl-params*="-rallysv"]
+yahoo.co.jp##a[data-cl-params*="-rallysv"]
 
 !VICTORY
-!yahoo.co.jp##a[data-cl-params*="-victory"]
+yahoo.co.jp##a[data-cl-params*="-victory"]
 
 !卓球王国
 !yahoo.co.jp##a[data-cl-params*="-worldtt"]
 
 !バドスピ バトミントン・マガジン
-!yahoo.co.jp##a[data-cl-params*="-badspi"]
+yahoo.co.jp##a[data-cl-params*="-badspi"]
 
 !ワールドジェットスポーツマガジン
-!yahoo.co.jp##a[data-cl-params*="-wjsm"]
+yahoo.co.jp##a[data-cl-params*="-wjsm"]
 
 !スポーツナビ
-!yahoo.co.jp##a[data-cl-params*="-spnavido"]
+yahoo.co.jp##a[data-cl-params*="-spnavido"]
 
 !DAZN News
-!yahoo.co.jp##a[data-cl-params*="-dazn"]
+yahoo.co.jp##a[data-cl-params*="-dazn"]
 
 !カンパラプレス
-!yahoo.co.jp##a[data-cl-params*="-kanpara"]
+yahoo.co.jp##a[data-cl-params*="-kanpara"]
 
 !スポチュニティコラム
-!yahoo.co.jp##a[data-cl-params*="-spport"]
+yahoo.co.jp##a[data-cl-params*="-spport"]
 
 !スポーティングニュース
-!yahoo.co.jp##a[data-cl-params*="-sporting"]
+yahoo.co.jp##a[data-cl-params*="-sporting"]
 
 !イージースポーツ(旧イレブンスポーツ)
-!yahoo.co.jp##a[data-cl-params*="-elevenspo"]
+yahoo.co.jp##a[data-cl-params*="-elevenspo"]
 
 !ラブすぽ
-!yahoo.co.jp##a[data-cl-params*="-tl-love-spo"]
+yahoo.co.jp##a[data-cl-params*="-tl-love-spo"]
 
 !CoCoKARA NEXT
-!yahoo.co.jp##a[data-cl-params*="-cocokara"]
+yahoo.co.jp##a[data-cl-params*="-cocokara"]
 
 !アスリートマガジンWEB
-!yahoo.co.jp##a[data-cl-params*="-hathlete"]
+yahoo.co.jp##a[data-cl-params*="-hathlete"]
 
 !NFL公式公式サイト日本語版
-!yahoo.co.jp##a[data-cl-params*="-nfljapan"]
+yahoo.co.jp##a[data-cl-params*="-nfljapan"]
 
 !テレビ東京スポーツ
-!yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
+yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
 
 !報道写真ギャラリーBEHIND
-!yahoo.co.jp##a[data-cl-params*="-behindn"]
+yahoo.co.jp##a[data-cl-params*="-behindn"]
 
 !RUNNET
-!yahoo.co.jp##a[data-cl-params*="-runnetjp"]
+yahoo.co.jp##a[data-cl-params*="-runnetjp"]
 
 !-------------------------------------------
 
@@ -2217,7 +2211,7 @@ yahoo.co.jp##a[data-cl-params*="-fvision"]
 !yahoo.co.jp##a[data-cl-params*="-sph"]
 
 !デイリースポーツ
-!yahoo.co.jp##a[data-cl-params*="-dal"]
+yahoo.co.jp##a[data-cl-params*="-dal"]
 
 !日刊スポーツ
 !yahoo.co.jp##a[data-cl-params*="-nksports"]
