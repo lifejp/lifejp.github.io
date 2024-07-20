@@ -12,5 +12,5 @@
 !yahoo.co.jp##a[href*="kurashiru"]
 
 !個人の記事を消す
-yahoo.co.jp##a[href*="erasen"]
+yahoo.co.jp##a[href*="expert"]
 !yahoo.co.jp##a[href*="byline"]
