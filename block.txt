@@ -2202,29 +2202,29 @@ yahoo.co.jp##a[data-cl-params*="-runnetjp"]
 !yahoo.co.jp##a[data-cl-params*="-tospoweb"]
 
 !中日スポーツ
-!yahoo.co.jp##a[data-cl-params*="-chuspo"]
+yahoo.co.jp##a[data-cl-params*="-chuspo"]
 
 !スポニチアネックス
-!yahoo.co.jp##a[data-cl-params*="-spnannex"]
+yahoo.co.jp##a[data-cl-params*="-spnannex"]
 
 !スポーツ報知
-!yahoo.co.jp##a[data-cl-params*="-sph"]
+yahoo.co.jp##a[data-cl-params*="-sph"]
 
 !デイリースポーツ
 yahoo.co.jp##a[data-cl-params*="-dal"]
 
 !日刊スポーツ
-!yahoo.co.jp##a[data-cl-params*="-nksports"]
+yahoo.co.jp##a[data-cl-params*="-nksports"]
 
 !サンケイスポーツ
-!yahoo.co.jp##a[data-cl-params*="-sanspo"]
+yahoo.co.jp##a[data-cl-params*="-sanspo"]
 
 !西日本スポーツ　西スポWeb OTTO　西スポレースサイト
 !西スポ系の一括除去のため"-"をつけていない
-!yahoo.co.jp##a[data-cl-params*="nishispo"]
+yahoo.co.jp##a[data-cl-params*="nishispo"]
 
 !道新スポーツ
-!yahoo.co.jp##a[data-cl-params*="-dospo"]
+yahoo.co.jp##a[data-cl-params*="-dospo"]
 
 !-------------------------------------------
 
