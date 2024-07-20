@@ -2,13 +2,6 @@
 ! Version: 20240720
 
 ! テスト用フィルター
-!実験的にお試しします
-
-!更新履歴
-
-!2024.7
-!作成
-
 !作者　lifejp
 
 !-------------------------------------------
@@ -19,5 +12,5 @@
 !yahoo.co.jp##a[href*="kurashiru"]
 
 !個人の記事を消す
-yahoo.co.jp##a[href*="creators"]
+yahoo.co.jp##a[href*="erasen"]
 !yahoo.co.jp##a[href*="byline"]
