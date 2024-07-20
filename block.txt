@@ -1,65 +1,29 @@
 ! Title: jlbunyou filter
 ! Version: 20240720
-! Homepage: https://github.com/lifejp/block
 
 ! 自分用フィルター
+!コピペしただけです
 
-!まだコピペしただけです
+!更新履歴
 
-!個人作成のルールを公開したものです
-!不安定または予期せぬ動作をすることがあります
-!かわいくない単語を見つけたら更新します
-!iOSはSafari機能拡張をオンにしないと適用されないルールが含まれています
-!設定はAdGuard公式ブログをご覧ください
-! https://adguard.com/ja/blog/adguard-4-3-for-ios.html
+!2024.7
+!作成
 
-!おおまかな更新履歴
-
-!2024.5~6
-!漏れ追加
-
-!2024.4
-!first-all-digest修正、フォロー中除去
-!自称エキスパートの記事除去
-!誤爆防止に関する調整
-
-!2023.5~12
-!漏れていたものを追加・微修正のみ
-
-!2023.4
-!kawaii_filter_lite用ルールを追加
-
-!2023.3
-!first-gourmet-editorsごと削除
-!ジャンルを少し細分化
-
-!2023.2
-!first-all-digestごと削除
-
-!2023.1
-!TRILL、liBae、Coordisnap、BuzzFeedなど
-!新聞、テレビ局等以外の記事提供元はブロックできるルールを追加
-
-!2022.12
-!公開
-
-!作者　killtrill
-!Twitter @kawaii_filter
-!Web https://kawaii.flier.jp
+!作者　lifejp
 
 !-------------------------------------------
 
 !TRILLを消滅させる
 !クラシルを消滅させる
-yahoo.co.jp##a[href*="trilltrill"]
-yahoo.co.jp##a[href*="kurashiru"]
+!yahoo.co.jp##a[href*="trilltrill"]
+!yahoo.co.jp##a[href*="kurashiru"]
 
 !個人の記事を消す
-yahoo.co.jp##a[href*="creators"]
-yahoo.co.jp##a[href*="byline"]
+!yahoo.co.jp##a[href*="creators"]
+!yahoo.co.jp##a[href*="byline"]
 
 !自動再生される動画
-yahoo.co.jp##a[href*="video"]
+!yahoo.co.jp##a[href*="video"]
 
 !宮川大輔その他を消滅させる
 yahoo.co.jp##a[href*="commerce"]
@@ -74,15 +38,15 @@ yahoo.co.jp##a[data-cl-params*="promo"]
 yahoo.co.jp##div[class^="FollowCarousel_FollowCarousel__3auIV"]
 
 !Yahooトップ「ニュース」タブ　エンタメ記事全除去
-yahoo.co.jp##article[data-ual*="first-news-entertainment"]
+!yahoo.co.jp##article[data-ual*="first-news-entertainment"]
 
 !news.yahoo.co.jp 「エンタメ」タブ記事全除去
-news.yahoo.co.jp##section[id*="tab-panel-entertainment"]
+!news.yahoo.co.jp##section[id*="tab-panel-entertainment"]
 
 !first-all-digest
 !Yahooトップ「すべて」タブの上部記事
-yahoo.co.jp##ul[class^="Autopi_StreamAutopi__list__7Njfe"]
-yahoo.co.jp##article[data-ual*="element_id:first-all-digest;"]
+!yahoo.co.jp##ul[class^="Autopi_StreamAutopi__list__7Njfe"]
+!yahoo.co.jp##article[data-ual*="element_id:first-all-digest;"]
 
 
 !first-gourmet-editors
