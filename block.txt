@@ -19,7 +19,7 @@
 !yahoo.co.jp##a[href*="kurashiru"]
 
 !個人の記事を消す
-!yahoo.co.jp##a[href*="creators"]
+yahoo.co.jp##a[href*="creators"]
 !yahoo.co.jp##a[href*="byline"]
 
 !自動再生される動画
@@ -320,7 +320,7 @@ yahoo.co.jp##a[data-cl-params*="-theanswer"]
 !yahoo.co.jp##a[data-cl-params*="-socialinv"]
 
 !なかまぁる
-!yahoo.co.jp##a[data-cl-params*="-nakamaaru"]
+yahoo.co.jp##a[data-cl-params*="-nakamaaru"]
 
 !mymo
 !yahoo.co.jp##a[data-cl-params*="-mymo"]
@@ -1373,9 +1373,9 @@ yahoo.co.jp##a[data-cl-params*="-parcferme"]
 !動物
 
 !ねこちゃんホンポ
-!yahoo.co.jp##a[data-cl-params*="-necohonpo"]
+yahoo.co.jp##a[data-cl-params*="-necohonpo"]
 !わんちゃんホンポ
-!yahoo.co.jp##a[data-cl-params*="-wanhonpo"]
+yahoo.co.jp##a[data-cl-params*="-wanhonpo"]
 
 !いぬのきもち(2つある)
 !yahoo.co.jp##a[data-cl-params*="-inunokimoti"]
@@ -2105,28 +2105,28 @@ yahoo.co.jp##a[data-cl-params*="-runnetjp"]
 !外国の新聞社など一部の人にしか関係ないもの
 
 !朝鮮日報
-!yahoo.co.jp##a[data-cl-params*="-chosun"]
+yahoo.co.jp##a[data-cl-params*="-chosun"]
 
 !中央日報
-!yahoo.co.jp##a[data-cl-params*="-cnippou"]
+yahoo.co.jp##a[data-cl-params*="-cnippou"]
 
 !聯合ニュース
-!yahoo.co.jp##a[data-cl-params*="-yonh"]
+yahoo.co.jp##a[data-cl-params*="-yonh"]
 
 !ハンギョレ新聞
-!yahoo.co.jp##a[data-cl-params*="-hankyoreh"]
+yahoo.co.jp##a[data-cl-params*="-hankyoreh"]
 
 !KOREAWAVE
-!yahoo.co.jp##a[data-cl-params*="-clc_korea"]
+yahoo.co.jp##a[data-cl-params*="-clc_korea"]
 
 !ブラジル日報
-!yahoo.co.jp##a[data-cl-params*="-nikkey"]
+yahoo.co.jp##a[data-cl-params*="-nikkey"]
 
 !マカオ新聞
-!yahoo.co.jp##a[data-cl-params*="-macau"]
+yahoo.co.jp##a[data-cl-params*="-macau"]
 
 !中央社フォーカス台湾
-!yahoo.co.jp##a[data-cl-params*="-ftaiwan"]
+yahoo.co.jp##a[data-cl-params*="-ftaiwan"]
 
 !ネットショップ担当者フォーラム
 !yahoo.co.jp##a[data-cl-params*="-netshop"]
@@ -2199,7 +2199,7 @@ yahoo.co.jp##a[data-cl-params*="-runnetjp"]
 !-------------------------------------------
 
 !東スポ
-!yahoo.co.jp##a[data-cl-params*="-tospoweb"]
+yahoo.co.jp##a[data-cl-params*="-tospoweb"]
 
 !中日スポーツ
 yahoo.co.jp##a[data-cl-params*="-chuspo"]
@@ -2263,7 +2263,7 @@ yahoo.co.jp##a[data-cl-params*="-dospo"]
 !yahoo.co.jp##a[data-cl-params*="-fnn"]
 
 !TBS NEWS DIG Powered by JNN
-!yahoo.co.jp##a[data-cl-params*="-jnn"]
+yahoo.co.jp##a[data-cl-params*="-jnn"]
 
 !日テレNEWS
 !yahoo.co.jp##a[data-cl-params*="-nnn"]
@@ -2272,7 +2272,7 @@ yahoo.co.jp##a[data-cl-params*="-dospo"]
 !yahoo.co.jp##a[data-cl-params*="-tvtnews"]
 
 !テレビ東京スポーツ
-!yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
+yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
 
 !-------------------------------------------
 
