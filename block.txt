@@ -230,7 +230,7 @@
 !yahoo.co.jp##a[data-cl-params*="-huffpost"]
 
 !THE ANSWER
-!yahoo.co.jp##a[data-cl-params*="-theanswer"]
+yahoo.co.jp##a[data-cl-params*="-theanswer"]
 
 !J-CASTニュース
 !yahoo.co.jp##a[data-cl-params*="-jct"]
