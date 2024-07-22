@@ -119,7 +119,7 @@ yahoo.co.jp##a[href*="creators"]
 !yahoo.co.jp##a[data-cl-params*="-buzzfeed"]
 
 !ABEMA TIMES
-!yahoo.co.jp##a[data-cl-params*="-abema"]
+yahoo.co.jp##a[data-cl-params*="-abema"]
 
 !Ameba News
 !yahoo.co.jp##a[data-cl-params*="-ameba"]
