@@ -8,7 +8,15 @@
 
 !上部の追随
 togetter.com##.base_header
+togetter.com###appdl_header
+togetter.com##.header_navigator
+togetter.com##.header_info_box
+togetter.com###matome-favorite-box
 
+
+!下部
+togetter.com##.tag_box:nth-of-type(-n+2)
+togetter.com##h3:has-text(あわせて読みたい)
 
 togetter.com##.social_box
 togetter.com###recent-popular-matomes-portal
