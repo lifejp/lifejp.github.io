@@ -1,5 +1,5 @@
-! Title: jlbunyou filter 2
-! Version: 20240720
+! Title: togetter関連
+! Version: 20240803
 
 ! テスト用フィルター
 !作者　lifejp
