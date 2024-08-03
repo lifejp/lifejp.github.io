@@ -16,6 +16,7 @@ togetter.com###matome-favorite-box
 
 !下部
 togetter.com##.tag_box:nth-of-type(-n+2)
+togetter.com##.info_status_box:nth-of-type(2)
 
 togetter.com##.social_box
 togetter.com###recent-popular-matomes-portal
