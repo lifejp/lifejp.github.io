@@ -6,10 +6,9 @@
 
 !-------------------------------------------
 
-!TRILLを消滅させる
-!クラシルを消滅させる
-!yahoo.co.jp##a[href*="trilltrill"]
-!yahoo.co.jp##a[href*="kurashiru"]
+!上部の追随
+togetter.com##.base_header
+togetter.com##a[href*="kurashiru"]
 
 !個人の記事を消す
 yahoo.co.jp##a[href*="expert"]
