@@ -8,7 +8,22 @@
 
 !上部の追随
 togetter.com##.base_header
-togetter.com##a[href*="kurashiru"]
+
+
+togetter.com##.social_box
+togetter.com###recent-popular-matomes-portal
+togetter.com###hot-in-tag-matomes-portal
+togetter.com###official-user-matomes-portal
+togetter.com###popular-tag-portal
+togetter.com###comments-summary-portal
+togetter.com###side-recommend-matomes-portal
+togetter.com###author-recommend-matomes-portal
+togetter.com##.simple_line_box
+togetter.com##.bottom_tweetpay_box
+togetter.com##.app_download_footer
+togetter.com###comment-box-portal
+togetter.com###app_download_box
+
 
 !個人の記事を消す
 yahoo.co.jp##a[href*="expert"]
