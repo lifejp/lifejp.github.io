@@ -6,21 +6,21 @@
 
 !-------------------------------------------
 
+!【上部】
+
 !上部タイトルの追随
 togetter.com##.base_header
-!togetter.com###appdl_header
 
 !ヘッダー帯(追随)
 togetter.com##.header_navigator
 
-!togetter.com##.header_info_box
-
 !ソーシャルボタン・お気に入り
 togetter.com##.info_status_box:last-of-type
-!togetter.com###matome-favorite-box
 
 
-!下部
+!【下部】
+
+!記事下タグBOX
 togetter.com##.tag_box:nth-of-type(-n+2)
 
 !記事下ソーシャルボタン
@@ -28,6 +28,9 @@ togetter.com##.social_box
 
 !あわせて読みたい
 togetter.com##.related_list_box
+
+!作者のオススメ
+togetter.com###author-recommend-matomes-portal
 
 !いま話題のおすすめまとめ
 togetter.com###recent-popular-matomes-portal
@@ -47,9 +50,6 @@ togetter.com###comments-summary-portal
 !オススメまとめ
 togetter.com###side-recommend-matomes-portal
 
-!存在するけど不明
-!togetter.com###author-recommend-matomes-portal
-
 !アプリならもっと最下部デカ宣伝
 togetter.com##.app_download_footer
 
@@ -57,6 +57,13 @@ togetter.com##.app_download_footer
 
 !11～20位は公式アプリで
 togetter.com##.app-dl
+
+
+
+
+!togetter.com###appdl_header
+!togetter.com##.header_info_box
+!togetter.com###matome-favorite-box
 
 !togetter.com###official-user-matomes-portal
 !togetter.com##.simple_line_box
