@@ -26,23 +26,43 @@ togetter.com##.tag_box:nth-of-type(-n+2)
 !記事下ソーシャルボタン
 togetter.com##.social_box
 
+!あわせて読みたい
+togetter.com##.related_list_box
+
 !いま話題のおすすめまとめ
 togetter.com###recent-popular-matomes-portal
 
-togetter.com###hot-in-tag-matomes-portal
-togetter.com###official-user-matomes-portal
-togetter.com###popular-tag-portal
-togetter.com###comments-summary-portal
-togetter.com###side-recommend-matomes-portal
-togetter.com###author-recommend-matomes-portal
-!togetter.com##.simple_line_box
-togetter.com##.bottom_tweetpay_box
-togetter.com##.app_download_footer
+!コメント欄全体
 togetter.com###comment-box-portal
-togetter.com###app_download_box
+
+!「○○」タグのおすすめまとめ
+togetter.com###hot-in-tag-matomes-portal
+
+!急上昇したワード
+togetter.com###popular-tag-portal
+
+!みんなのコメント
+togetter.com###comments-summary-portal
+
+!オススメまとめ
+togetter.com###side-recommend-matomes-portal
+
+!存在するけど不明
+!togetter.com###author-recommend-matomes-portal
+
+!アプリならもっと最下部デカ宣伝
+togetter.com##.app_download_footer
+
+
 
 !11～20位は公式アプリで
 togetter.com##.app-dl
+
+!togetter.com###official-user-matomes-portal
+!togetter.com##.simple_line_box
+!togetter.com##.bottom_tweetpay_box
+!togetter.com###app_download_box
+
 
 !個人の記事を消す
 yahoo.co.jp##a[href*="expert"]
