@@ -9,6 +9,14 @@
 !記事中アフィ(amazon-22)
 togetter.com##.list_box:has(> .title > a[href*="amazon"][href*="-22/"])
 
+!【ランキング】
+
+!オリジナル(リアタイ＆24時間)
+togetter.com##.ranking_title:nth-of-type(6)
+togetter.com##.ranking_title:nth-of-type(7)
+togetter.com##.simple_list:nth-of-type(3)
+togetter.com##.simple_list:nth-of-type(4)
+
 
 !【上部】
 
