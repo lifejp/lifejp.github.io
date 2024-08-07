@@ -32,6 +32,8 @@ togetter.com##.app_download_footer
 togetter.com###comment-box-portal
 togetter.com###app_download_box
 
+!11～20位は公式アプリで
+togetter.com##.app-dl
 
 !個人の記事を消す
 yahoo.co.jp##a[href*="expert"]
