@@ -26,7 +26,7 @@ yahoo.co.jp##a[data-cl-params*="_cl_vmodule:webtoapp"]
 yahoo.co.jp##header:has(span time) + div > div > div:first-of-type
 
 !AI要約(注釈)
-yahoo.co.jp##header:has(span time) + div + div > div > div:first-of-type
+!yahoo.co.jp##header:has(span time) + div + div > div > div:first-of-type
 
 !AI要約
 yahoo.co.jp##section:has(button[data-cl-params*="_cl_link:view"])
