@@ -23,6 +23,7 @@ togetter.com##.info_status_box:last-of-type
 !下部
 togetter.com##.tag_box:nth-of-type(-n+2)
 
+!記事下ソーシャルボタン
 togetter.com##.social_box
 
 !いま話題のおすすめまとめ
@@ -34,7 +35,7 @@ togetter.com###popular-tag-portal
 togetter.com###comments-summary-portal
 togetter.com###side-recommend-matomes-portal
 togetter.com###author-recommend-matomes-portal
-togetter.com##.simple_line_box
+!togetter.com##.simple_line_box
 togetter.com##.bottom_tweetpay_box
 togetter.com##.app_download_footer
 togetter.com###comment-box-portal
