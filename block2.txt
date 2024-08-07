@@ -6,6 +6,10 @@
 
 !-------------------------------------------
 
+!記事中アフィ(amazon-22)
+togetter.com##.list_box:has(> .title > a[href*="amazon"][href*="-22/"])
+
+
 !【上部】
 
 !上部タイトルの追随
@@ -38,6 +42,9 @@ togetter.com###recent-popular-matomes-portal
 !コメント欄全体
 togetter.com###comment-box-portal
 
+!ランキング中POP(11～20位は公式アプリで)
+togetter.com##.app-dl
+
 !「○○」タグのおすすめまとめ
 togetter.com###hot-in-tag-matomes-portal
 
@@ -55,11 +62,10 @@ togetter.com##.app_download_footer
 
 
 
-!11～20位は公式アプリで
-togetter.com##.app-dl
 
+!-------------------------------------------
 
-
+!【現在不使用】
 
 !togetter.com###appdl_header
 !togetter.com##.header_info_box
