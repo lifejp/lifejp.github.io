@@ -6,20 +6,28 @@
 
 !-------------------------------------------
 
-!上部の追随
+!上部タイトルの追随
 togetter.com##.base_header
-togetter.com###appdl_header
+!togetter.com###appdl_header
+
+!ヘッダー帯(追随)
 togetter.com##.header_navigator
-togetter.com##.header_info_box
-togetter.com###matome-favorite-box
+
+!togetter.com##.header_info_box
+
+!ソーシャルボタン・お気に入り
+togetter.com##.info_status_box:last-of-type
+!togetter.com###matome-favorite-box
 
 
 !下部
 togetter.com##.tag_box:nth-of-type(-n+2)
-togetter.com##.info_status_box:last-of-type
 
 togetter.com##.social_box
+
+!いま話題のおすすめまとめ
 togetter.com###recent-popular-matomes-portal
+
 togetter.com###hot-in-tag-matomes-portal
 togetter.com###official-user-matomes-portal
 togetter.com###popular-tag-portal
