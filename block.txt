@@ -1465,6 +1465,7 @@ yahoo.co.jp##a[data-cl-params*="-fsal"]
 
 !スポーツナビ
 yahoo.co.jp##a[data-cl-params*="sports_spnavi_npb-npb-"]
+yahoo.co.jp##a[data-cl-params*="sports_spnavi_gametopics-npb-"]
 
 !野球集約ルール
 yahoo.co.jp##a[data-cl-params*="-baseball"]
