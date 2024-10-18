@@ -1,5 +1,5 @@
 ! Title: togetter関連
-! Version: 20240803
+! Version: 20241018
 
 ! テスト用フィルター
 !作者　lifejp
@@ -37,6 +37,9 @@ togetter.com##.tag_box:nth-of-type(-n+2)
 
 !記事下ソーシャルボタン
 togetter.com##.social_box
+
+!まとめたひと
+togetter.com##.profile_box
 
 !あわせて読みたい
 togetter.com##.related_list_box
