@@ -717,6 +717,9 @@ yahoo.co.jp##a[data-cl-params*="-norimono"]
 yahoo.co.jp##a[data-cl-params*="-carview"]
 yahoo.co.jp##a[data-cl-params*="-kurumans"]
 
+!月刊自家用車WEB
+yahoo.co.jp##a[data-cl-params*="-jikayosha"]
+
 !バイクのニュース
 yahoo.co.jp##a[data-cl-params*="-bikeno"]
 
