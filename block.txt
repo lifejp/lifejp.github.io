@@ -25,7 +25,7 @@ yahoo.co.jp##[class^="TimelineTargeting_TimelineTargeting__link__"]
 !
 !yahoo.co.jp###inf_mid
 
-!
+!関連記事
 !yahoo.co.jp###uamods > section
 
 !
