@@ -26,7 +26,7 @@ yahoo.co.jp##[class^="TimelineTargeting_TimelineTargeting__link__"]
 !yahoo.co.jp###inf_mid
 
 !関連記事
-!yahoo.co.jp###uamods > section
+yahoo.co.jp###uamods > section
 
 !
 !yahoo.co.jp##[class^="ArticleReaction__Wrapper-"]
@@ -47,15 +47,15 @@ yahoo.co.jp##[class^="TimelineTargeting_TimelineTargeting__link__"]
 !yahoo.co.jp##a[href*="yahoo.jp"]
 
 !ねとらぼ画像
-!yahoo.co.jp##a[href^="https://nlab.itmedia.co.jp/nl/articles/"]
-!yahoo.co.jp##a[href^="https://nlab.itmedia.co.jp/research/articles/"]
-!yahoo.co.jp##a[href^="https://image.itmedia.co.jp/l/im/nl/articles/"]
+yahoo.co.jp##a[href^="https://nlab.itmedia.co.jp/nl/articles/"]
+yahoo.co.jp##a[href^="https://nlab.itmedia.co.jp/research/articles/"]
+yahoo.co.jp##a[href^="https://image.itmedia.co.jp/l/im/nl/articles/"]
 
 !記事上の謎空白
 yahoo.co.jp##div[type="enm"]
 
 !記事下の謎空白
-!yahoo.co.jp##div[type="mmon"]
+yahoo.co.jp##div[type="mmon"]
 
 
 
