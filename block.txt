@@ -16,20 +16,43 @@
 !無料まんが 特集ページへ
 yahoo.co.jp##.Comic
 
-!記事に戻る
+!TOP記事中Yahooバナー
 yahoo.co.jp##[class^="TimelineTargeting_TimelineTargeting__link__"]
 
+!
 !yahoo.co.jp###log-homenotice
+
+!
 !yahoo.co.jp###inf_mid
+
+!
 !yahoo.co.jp###uamods > section
+
+!
 !yahoo.co.jp##[class^="ArticleReaction__Wrapper-"]
+
+!
 !yahoo.co.jp##[class^="BackTop_themeKisekae__streamBackTop__"]
+
+!
 !yahoo.co.jp##a[data-cl-params*="-jsportsv"]
+
+
 !yahoo.co.jp##a[data-cl-params*="autopi_"]
+
+
 !yahoo.co.jp##a[data-cl-params*="takarabako"]
+
+
 !yahoo.co.jp##a[href*="yahoo.jp"]
+
+
 !yahoo.co.jp##a[href^="https://nlab.itmedia.co.jp/nl/articles/"],a[href^="https://nlab.itmedia.co.jp/research/articles/"],a[href^="https://image.itmedia.co.jp/l/im/nl/articles/"]
+
+
 !yahoo.co.jp##div[type="enm"]
+
+
 !yahoo.co.jp##div[type="mmon"]
 
 
