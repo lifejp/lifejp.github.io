@@ -52,7 +52,7 @@ yahoo.co.jp##[class^="TimelineTargeting_TimelineTargeting__link__"]
 !記事上の謎空白
 yahoo.co.jp##div[type="enm"]
 
-
+!記事下の謎空白
 !yahoo.co.jp##div[type="mmon"]
 
 
