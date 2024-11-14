@@ -49,8 +49,8 @@ yahoo.co.jp##[class^="TimelineTargeting_TimelineTargeting__link__"]
 
 !yahoo.co.jp##a[href^="https://nlab.itmedia.co.jp/nl/articles/"],a[href^="https://nlab.itmedia.co.jp/research/articles/"],a[href^="https://image.itmedia.co.jp/l/im/nl/articles/"]
 
-
-!yahoo.co.jp##div[type="enm"]
+!記事上の謎空白
+yahoo.co.jp##div[type="enm"]
 
 
 !yahoo.co.jp##div[type="mmon"]
