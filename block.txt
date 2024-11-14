@@ -34,8 +34,8 @@ yahoo.co.jp###uamods > section
 !
 !yahoo.co.jp##[class^="BackTop_themeKisekae__streamBackTop__"]
 
-!
-!yahoo.co.jp##a[data-cl-params*="-jsportsv"]
+!J SPORTS
+yahoo.co.jp##a[data-cl-params*="-jsportsv"]
 
 
 !yahoo.co.jp##a[data-cl-params*="autopi_"]
