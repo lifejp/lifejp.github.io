@@ -28,8 +28,15 @@ koe-koe.com###search-form
 !ジャンル:女性
 koe-koe.com##.genre
 
-!上部広告
+!広告
+koe-koe.com###chumoku_ad
 koe-koe.com##.ad_min_height
+koe-koe.com###third_ad
+koe-koe.com###fourth_ad
+koe-koe.com##.rss_c
+koe-koe.com##.ad_list
+
+!
 
 !
 !
