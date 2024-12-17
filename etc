@@ -21,8 +21,12 @@ koe-koe.com###search
 
 !ヘッダー
 !koe-koe.com###header
-!
-!
+
+!検索窓
+koe-koe.com###search-form
+
+!ジャンル:女性
+!koe-koe.com##.genre_select_wrapper
 !
 !
 !
