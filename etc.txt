@@ -41,15 +41,17 @@ koe-koe.com##div.content:has(div.icon.icon_male)
 
 !タグ(投稿フォーム,注意事項)
 koe-koe.com##form[action="koe_tag.php"]
-
+koe-koe.com##p.tag_note
 
 !LINE・Xボタン
 koe-koe.com##.line_button
 
-!投稿削除
+!投稿削除＆コメ削除ボタン
 koe-koe.com##.del_button
 
-!
+!コメントを書く
+koe-koe.com##form[action="koe_comment.php"]
+
 !
 !
 !
