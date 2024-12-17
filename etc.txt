@@ -36,10 +36,19 @@ koe-koe.com###fourth_ad
 koe-koe.com##.rss_c
 koe-koe.com##.ad_list
 
-!
+!男性投稿を非表示
+koe-koe.com##div.content:has(div.icon.icon_male)
 
-!
-!
+!タグ(投稿フォーム,注意事項)
+koe-koe.com##form[action="koe_tag.php"]
+
+
+!LINE・Xボタン
+koe-koe.com##.line_button
+
+!投稿削除
+koe-koe.com##.del_button
+
 !
 !
 !
