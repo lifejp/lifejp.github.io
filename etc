@@ -1,0 +1,35 @@
+! Title: その他 詰め合わせ
+! Version: 20241218
+! 作者　lifejp
+
+!-------------------------------------------
+
+!【koekoe】
+
+!音声を投稿する(TOP)
+koe-koe.com###menu
+
+!スピード検索(TOP)
+koe-koe.com###search
+
+!アイコン(ロゴ,投稿,女性,男性,カップル)
+||koe-koe.com/img/koe-koe-logo.png$image
+||koe-koe.com/img/rec2.png$image
+||koe-koe.com/img/female3.png$image
+||koe-koe.com/img/male3.png$image
+||koe-koe.com/img/couple3.png$image
+
+!ヘッダー
+!koe-koe.com###header
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
