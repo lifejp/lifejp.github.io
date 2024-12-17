@@ -27,7 +27,9 @@ koe-koe.com###search-form
 
 !ジャンル:女性
 !koe-koe.com##.genre_select_wrapper
-!
+
+!上部広告
+koe-koe.com##.ad_min_height
 !
 !
 !
