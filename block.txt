@@ -80,15 +80,20 @@ yahoo.co.jp##a[data-cl-params*="_cl_vmodule:webtoapp"]
 !要約してみませんかPOP
 yahoo.co.jp##[data-cl-params*="_cl_link:view"]
 
-!コメ欄「プロフ設定」導入コメ＆バナー
-yahoo.co.jp##.riff-Message__root--information
+!コメ欄「プロフ設定」導入バナー＆コメ
 yahoo.co.jp##a[href="https://news.yahoo.co.jp/users/me"] > img[src="https://s.yimg.jp/images/jpnews/cre/campaign/202412_profile_setting/link/sp/top.png"]
+yahoo.co.jp##.riff-Message__root--information
+
+!コメントを書く欄
+yahoo.co.jp##.riff-Message__root--information + div
 
 !コメ欄AI意見
 yahoo.co.jp##section:has(#viewable_comment_summary)
 
 !表示前スケルトン
 yahoo.co.jp##div.riff-relative:has(div.riff-SkeletonImage__root)
+
+
 
 !-------------------------------------------
 
