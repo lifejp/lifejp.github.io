@@ -84,8 +84,11 @@ yahoo.co.jp##[data-cl-params*="_cl_link:view"]
 yahoo.co.jp##a[href="https://news.yahoo.co.jp/users/me"] > img[src="https://s.yimg.jp/images/jpnews/cre/campaign/202412_profile_setting/link/sp/top.png"]
 yahoo.co.jp##.riff-Message__root--information
 
-!コメントを書く欄
+!「コメントを書く」欄
 yahoo.co.jp##.riff-Message__root--information + div
+
+!コメ欄AI説明
+yahoo.co.jp##.riff-Message__root--information + div + div:has(h1)
 
 !コメ欄AI意見
 yahoo.co.jp##section:has(#viewable_comment_summary)
