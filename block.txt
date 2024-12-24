@@ -80,7 +80,8 @@ yahoo.co.jp##a[data-cl-params*="_cl_vmodule:webtoapp"]
 !要約してみませんかPOP
 yahoo.co.jp##[data-cl-params*="_cl_link:view"]
 
-!コメ欄「プロフィール設定」導入バナー
+!コメ欄「プロフ設定」導入コメ＆バナー
+yahoo.co.jp##.riff-Message__root--information
 yahoo.co.jp##a[href="https://news.yahoo.co.jp/users/me"] > img[src="https://s.yimg.jp/images/jpnews/cre/campaign/202412_profile_setting/link/sp/top.png"]
 
 !-------------------------------------------
