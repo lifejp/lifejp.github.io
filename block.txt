@@ -84,11 +84,6 @@ yahoo.co.jp##[data-cl-params*="_cl_link:view"]
 yahoo.co.jp##.riff-Message__root--information
 yahoo.co.jp##a[href="https://news.yahoo.co.jp/users/me"] > img[src="https://s.yimg.jp/images/jpnews/cre/campaign/202412_profile_setting/link/sp/top.png"]
 
-!コメ欄AI意見
-!yahoo.co.jp##section:has(#viewable_comment_summary)
-
-!表示前スケルトン
-!yahoo.co.jp##.riff-relative
 
 
 !-------------------------------------------
