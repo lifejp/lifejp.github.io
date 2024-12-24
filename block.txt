@@ -69,7 +69,7 @@ yahoo.co.jp##header:has(span time) + div > div:first-of-type
 yahoo.co.jp##a[data-cl-params*="_cl_vmodule:webtoapp"]
 
 !コメントを書く欄
-yahoo.co.jp##header:has(span time) + div > div > div:first-of-type
+!yahoo.co.jp##header:has(span time) + div > div > div:first-of-type
 
 !AI要約(注釈)
 !yahoo.co.jp##header:has(span time) + div + div > div > div:first-of-type
@@ -80,6 +80,8 @@ yahoo.co.jp##header:has(span time) + div > div > div:first-of-type
 !要約してみませんかPOP
 yahoo.co.jp##[data-cl-params*="_cl_link:view"]
 
+!コメ欄「プロフィール設定」導入バナー
+yahoo.co.jp##a[href="https://news.yahoo.co.jp/users/me"] > img[src="https://s.yimg.jp/images/jpnews/cre/campaign/202412_profile_setting/link/sp/top.png"]
 
 !-------------------------------------------
 
