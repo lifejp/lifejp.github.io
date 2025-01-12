@@ -2310,9 +2310,11 @@ yahoo.co.jp##a[data-cl-params*="-nksports"]
 !サンケイスポーツ
 yahoo.co.jp##a[data-cl-params*="-sanspo"]
 
-!西日本スポーツ　西スポWeb OTTO　西スポレースサイト
-!西スポ系の一括除去のため"-"をつけていない
-yahoo.co.jp##a[data-cl-params*="nishispo"]
+!西スポWeb OTTO
+yahoo.co.jp##a[data-cl-params*="-nishispo"]
+
+!西スポレースサイト
+yahoo.co.jp##a[data-cl-params*="-rnishispo"]
 
 !道新スポーツ
 yahoo.co.jp##a[data-cl-params*="-dospo"]
