@@ -29,6 +29,10 @@ posfie.com##.base_header
 togetter.com##.header_navigator
 posfie.com##.header_navigator
 
+!ヘッダーバナー
+togetter.com##.header_banner
+posfie.com##.header_banner
+
 !ソーシャルボタン・お気に入り
 togetter.com##.info_status_box:last-of-type
 posfie.com##.info_status_box:last-of-type
