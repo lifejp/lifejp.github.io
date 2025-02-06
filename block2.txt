@@ -1,5 +1,5 @@
 ! Title: togetter関連
-! Version: 20241018
+! Version: 20250206
 
 ! テスト用フィルター
 !作者　lifejp
@@ -8,6 +8,7 @@
 
 !記事中アフィ(amazon-22)
 togetter.com##.list_box:has(> .title > a[href*="amazon"][href*="-22/"])
+posfie.com##.list_box:has(> .title > a[href*="amazon"][href*="-22/"])
 
 !【ランキング】
 
@@ -22,54 +23,70 @@ togetter.com##.simple_list:nth-of-type(4)
 
 !上部タイトルの追随
 togetter.com##.base_header
+posfie.com##.base_header
 
 !ヘッダー帯(追随)
 togetter.com##.header_navigator
+posfie.com##.header_navigator
 
 !ソーシャルボタン・お気に入り
 togetter.com##.info_status_box:last-of-type
+posfie.com##.info_status_box:last-of-type
 
 
 !【下部】
 
 !記事下タグBOX
 togetter.com##.tag_box:nth-of-type(-n+2)
+posfie.com##.tag_box:nth-of-type(-n+2)
 
 !記事下ソーシャルボタン
 togetter.com##.social_box
+posfie.com##.social_box
 
 !まとめたひと
 togetter.com##.profile_box
+posfie.com##.profile_box
 
 !あわせて読みたい
 togetter.com##.related_list_box
+posfie.com##.related_list_box
 
 !作者のオススメ
 togetter.com###author-recommend-matomes-portal
+posfie.com###author-recommend-matomes-portal
 
 !いま話題のおすすめまとめ
 togetter.com###recent-popular-matomes-portal
+posfie.com###recent-popular-matomes-portal
 
 !コメント欄全体
 togetter.com###comment-box-portal
+posfie.com###comment-box-portal
 
 !ランキング中POP(11～20位は公式アプリで)
 togetter.com##.app-dl
+posfie.com##.app-dl
 
 !「○○」タグのおすすめまとめ
 togetter.com###hot-in-tag-matomes-portal
+posfie.com###hot-in-tag-matomes-portal
 
 !急上昇したワード
 togetter.com###popular-tag-portal
+posfie.com###popular-tag-portal
 
 !みんなのコメント
 togetter.com###comments-summary-portal
+posfie.com###comments-summary-portal
 
 !オススメまとめ
 togetter.com###side-recommend-matomes-portal
+posfie.com###side-recommend-matomes-portal
 
 !アプリならもっと最下部デカ宣伝
 togetter.com##.app_download_footer
+posfie.com##.app_download_footer
 
 
 
