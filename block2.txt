@@ -52,9 +52,14 @@ posfie.com##.social_box
 togetter.com##.profile_box
 posfie.com##.profile_box
 
-!あわせて読みたい
+!あわせて読みたい(旧)
 togetter.com##.related_list_box
 posfie.com##.related_list_box
+!あわせて読みたい(新)
+togetter.com##.recommend_posts_title
+posfie.com##.recommend_posts_title
+togetter.com##.recommend_posts_box
+posfie.com##.recommend_posts_box
 
 !作者のオススメ
 togetter.com###author-recommend-matomes-portal
