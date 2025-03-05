@@ -14,12 +14,15 @@ video.dmm.co.jp###sp-nav-footer
 
 
 
+!【5ch.net】
+
+!浮きメニュー削除
+itest.5ch.net##.float-nav_wrapper
+
+
+
 
 !アイコン(ロゴ,投稿,女性,男性,カップル)
-||koe-koe.com/img/koe-koe-logo.png$image
-||koe-koe.com/img/rec2.png$image
-||koe-koe.com/img/female3.png$image
-||koe-koe.com/img/male3.png$image
 ||koe-koe.com/img/couple3.png$image
 
 !ヘッダー
