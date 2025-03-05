@@ -16,8 +16,16 @@ video.dmm.co.jp###sp-nav-footer
 
 !【5ch.net】
 
-!浮きメニュー削除
+!浮きメニュー
 itest.5ch.net##.float-nav_wrapper
+
+!05～06間の広告
+itest.5ch.net##.ad_5th_300x250 iframe
+itest.5ch.net##.ad_5th_300x250
+
+!広告ナシ＆メロンポイント文言
+itest.5ch.net##.ad-undress + p + p
+itest.5ch.net##.ad-undress + p
 
 
 
