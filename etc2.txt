@@ -14,6 +14,23 @@ video.dmm.co.jp###sp-nav-footer
 
 
 
+!【docomo】
+
+!浮きメニュー
+docomo.ne.jp##.floaterBoxSizing
+
+!デカいスライド広告
+docomo.ne.jp##.productsBanner
+
+!『5Gスマートフォン』表記
+docomo.ne.jp##.titleWrapper
+
+!『絞り込み』部分
+docomo.ne.jp##.spFilterArea
+
+
+
+
 !【5ch.net】
 
 !浮きメニュー
