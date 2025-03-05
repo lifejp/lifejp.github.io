@@ -14,6 +14,13 @@ video.dmm.co.jp###sp-nav-footer
 
 
 
+!【Twitter動画保管庫】
+
+!途中の空白iframe
+twi-dl.net##iframe
+
+
+
 !【docomo】
 
 !浮きメニュー
