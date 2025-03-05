@@ -29,6 +29,12 @@ itest.5ch.net##.ad-undress + p
 
 
 
+!【atwiki】
+
+!浮き(メニュー＆人気記事)
+atwiki.jp##footer-fixed-menubar
+atwiki.jp##footer-fixed-popular
+
 
 !アイコン(ロゴ,投稿,女性,男性,カップル)
 ||koe-koe.com/img/couple3.png$image
