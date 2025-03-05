@@ -42,9 +42,6 @@ atwiki.jp###footer-fixed-popular
 ||koe-koe.com/img/couple3.png$image
 
 
-!ジャンル:女性
-koe-koe.com##.genre
-
 !広告
 koe-koe.com###chumoku_ad
 koe-koe.com##.ad_min_height
