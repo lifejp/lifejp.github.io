@@ -1,16 +1,19 @@
 ! Title: その他 詰め合わせ
-! Version: 20241218
+! Version: 20250305
 ! 作者　lifejp
 
 !-------------------------------------------
 
-!【koekoe】
+!【FANZA動画】
 
-!音声を投稿する(TOP)
-koe-koe.com###menu
+!上部バナー
+video.dmm.co.jp##.dmm-c-banner-tags
 
-!スピード検索(TOP)
-koe-koe.com###search
+!下部常設フッター(＆TOPに戻るボタン)
+video.dmm.co.jp###sp-nav-footer
+
+
+
 
 !アイコン(ロゴ,投稿,女性,男性,カップル)
 ||koe-koe.com/img/koe-koe-logo.png$image
