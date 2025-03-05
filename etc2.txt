@@ -36,14 +36,11 @@ atwiki.jp###footer-fixed-menubar
 atwiki.jp###footer-fixed-popular
 
 
+
+
 !アイコン(ロゴ,投稿,女性,男性,カップル)
 ||koe-koe.com/img/couple3.png$image
 
-!ヘッダー
-!koe-koe.com###header
-
-!検索窓
-koe-koe.com###search-form
 
 !ジャンル:女性
 koe-koe.com##.genre
