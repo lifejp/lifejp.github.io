@@ -4,6 +4,35 @@
 
 !-------------------------------------------
 
+!【Missav】
+
+missav.ws###html-ads
+.plyr__control--overlaid
+.plyr__volume
+
+missav.ws##.bg-primary
+
+missav.ws##.space-y-2 > .text-secondary > span:has-text (/監督:/)
+
+missav.ws##.under_player
+.list-disc
+.space-y-5
+.ipprtcnt
+
+missav.ws##div.grid.md\:grid-cols-2.gap-8
+
+missav.ws##div.text-secondary:has(a[href*="/ja/actors/"])
+
+missav.ws##div.text-secondary:has(a[href*="/ja/directors/"])
+
+missav.ws##ul.mb-4.list-none.text-nord14.grid.grid-cols-2.gap-2
+
+
+
+
+
+
+
 !【koekoe】
 
 !音声を投稿する(TOP)
