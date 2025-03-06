@@ -7,36 +7,43 @@
 !【Missav】
 
 
-.p-2.rounded-lg.shadow-lg
-.mt-3
-
-missav.ws###html-ads
-.plyr__control--overlaid
-.plyr__volume
-
-missav.ws##.bg-primary
+missav.ws##.p-2.rounded-lg.shadow-lg
+missav.ws##.mt-3
 
 missav.ws##.list-disc
-.space-y-5
-.ipprtcnt
+missav.ws##.space-y-5
+missav.ws##.ipprtcnt
 
-! 再生画面下バナー
+
+!最下部の何か(不要かも？)
+!missav.ws###html-ads
+
+!再生ボタン
+missav.ws##.plyr__control--overlaid
+
+!音量ボタン
+missav.ws##.plyr__volume
+
+!ループ不可(不要かも？)
+!missav.ws##.bg-primary
+
+!再生画面下バナー
 missav.ws##.under_player
 
-! MissAV帰ってきた告知
+!MissAV帰ってきた告知
 missav.ws##div.grid.md\:grid-cols-2.gap-8
 
-! 男優名
+!男優名
 missav.ws##div.text-secondary:has(a[href*="/ja/actors/"])
 
-! 監督の行(文＆名)
+!監督の行(文＆名)
 missav.ws##.space-y-2 > .text-secondary > span:has-text (/監督:/)
 missav.ws##div.text-secondary:has(a[href*="/ja/directors/"])
 
-! 詳細内の文章リンク
+!詳細内の文章リンク
 missav.ws##ul.mb-4.list-none.text-nord14.grid.grid-cols-2.gap-2
 
-! フッター上空白
+!フッター上空白
 missav.ws##space-y-5.mb-5
 
 
