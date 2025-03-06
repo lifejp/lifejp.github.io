@@ -25,11 +25,10 @@ missav.ws##div.grid.md\:grid-cols-2.gap-8
 !詳細内の文章リンク
 missav.ws##ul.mb-4.list-none.text-nord14.grid.grid-cols-2.gap-2
 
-!男優名
+!男優欄
 missav.ws##div.text-secondary:has(a[href*="/ja/actors/"])
 
-!監督の行(文＆名)
-missav.ws##.space-y-2 > .text-secondary > span:has-text (/監督:/)
+!監督欄
 missav.ws##div.text-secondary:has(a[href*="/ja/directors/"])
 
 !詳細下騙しサムネ
