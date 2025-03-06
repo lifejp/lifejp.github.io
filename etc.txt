@@ -1,4 +1,4 @@
-! Title: koekoe その他
+! Title: koekoe Miss その他
 ! Version: 20241218
 ! 作者　lifejp
 
@@ -35,7 +35,7 @@ missav.ws##div.text-secondary:has(a[href*="/ja/directors/"])
 missav.ws##div.relative.overflow-hidden iframe
 
 !フッター上空白
-missav.ws##space-y-5.mb-5
+missav.ws##.space-y-5.mb-5
 
 !過去使用の不明コード(不要かも？)
 !missav.ws##.p-2.rounded-lg.shadow-lg
