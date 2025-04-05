@@ -8,33 +8,43 @@
 
 
 !右下浮きバナー
+missav.ai##[class^="bottomRight--"]
 missav.ws##[class^="bottomRight--"]
 
 !再生ボタン
+missav.ai##.plyr__control--overlaid
 missav.ws##.plyr__control--overlaid
 
 !音量ボタン
+missav.ai##.plyr__volume
 missav.ws##.plyr__volume
 
 !再生画面下バナー
+missav.ai##.under_player
 missav.ws##.under_player
 
 !MissAV帰ってきた告知
+missav.ai##div.grid.md\:grid-cols-2.gap-8
 missav.ws##div.grid.md\:grid-cols-2.gap-8
 
 !詳細内の文章リンク
+missav.ai##ul.mb-4.list-none.text-nord14.grid.grid-cols-2.gap-2
 missav.ws##ul.mb-4.list-none.text-nord14.grid.grid-cols-2.gap-2
 
 !男優欄
+missav.ai##div.text-secondary:has(a[href*="/ja/actors/"])
 missav.ws##div.text-secondary:has(a[href*="/ja/actors/"])
 
 !監督欄
+missav.ai##div.text-secondary:has(a[href*="/ja/directors/"])
 missav.ws##div.text-secondary:has(a[href*="/ja/directors/"])
 
 !詳細下騙しサムネ
+missav.ai##div.relative.overflow-hidden iframe
 missav.ws##div.relative.overflow-hidden iframe
 
 !フッター上空白
+missav.ai##.space-y-5.mb-5
 missav.ws##.space-y-5.mb-5
 
 !過去使用の不明コード(不要かも？)
