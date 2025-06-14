@@ -10,16 +10,13 @@
 dmm.co.jp##.dmm-c-banner-tags
 
 !下部バナー
-
+dmm.co.jp##[class*="bottom-"]
 dmm.co.jp###point-bnr-wrap
 
 !下部常設フッター2種
 dmm.co.jp###sp-nav-footer
 dmm.co.jp###dig-sp-footer-navi
 
-!旧コード
-!
-!
 
 
 
