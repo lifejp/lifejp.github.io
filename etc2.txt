@@ -6,11 +6,15 @@
 
 !【FANZA動画】
 
-!上部バナー
-dmm.co.jp##.dmm-c-banner-tags
+!下部バナー
+dmm.co.jp###point-bnr-wrap
 
 !下部常設フッター(＆TOPに戻るボタン)
-dmm.co.jp###sp-nav-footer
+dmm.co.jp###dig-sp-footer-navi
+
+!旧コード
+!dmm.co.jp##.dmm-c-banner-tags
+!dmm.co.jp###sp-nav-footer
 
 
 
