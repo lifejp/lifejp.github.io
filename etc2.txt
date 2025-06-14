@@ -7,10 +7,10 @@
 !【FANZA動画】
 
 !上部バナー
-video.dmm.co.jp##.dmm-c-banner-tags
+dmm.co.jp##.dmm-c-banner-tags
 
 !下部常設フッター(＆TOPに戻るボタン)
-video.dmm.co.jp###sp-nav-footer
+dmm.co.jp###sp-nav-footer
 
 
 
