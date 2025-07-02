@@ -108,6 +108,11 @@ koe-koe.com##.del_button
 !コメントを書く
 koe-koe.com##form[action="koe_comment.php"]
 
+!配信上部ナンネット広告
+live.koe-koe.com##.container
+
+
+
 !
 !
 !
