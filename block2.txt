@@ -107,6 +107,10 @@ posfie.com##.app_download_footer
 
 !【posfie専用】
 
+!オーバーレイ関連
+posfie.com###fixed_social_header
+posfie.com###fixed_social_footer
+
 !記事内上部タイトル
 posfie.com##.headline_box
 
