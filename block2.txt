@@ -111,8 +111,12 @@ posfie.com##.app_download_footer
 posfie.com###fixed_social_header
 posfie.com###fixed_social_footer
 
-!記事内上部タイトル
+!記事内タイトル
 posfie.com##.headline_box
+
+!記事内作者名
+posfie.com##.authour_link
+!(posfie.com##.info_head_leftだと左に寄る)
 
 !下部サポーターオプション
 posfie.com##.side_supporter_box
