@@ -68,33 +68,6 @@ atwiki.jp###footer-fixed-popular
 
 
 
-!アイコン(ロゴ,投稿,女性,男性,カップル)
-||koe-koe.com/img/couple3.png$image
-
-
-!広告
-koe-koe.com###chumoku_ad
-koe-koe.com##.ad_min_height
-koe-koe.com###third_ad
-koe-koe.com###fourth_ad
-koe-koe.com##.rss_c
-koe-koe.com##.ad_list
-
-!男性投稿を非表示
-koe-koe.com##div.content:has(div.icon.icon_male)
-
-!タグ(投稿フォーム,注意事項)
-koe-koe.com##form[action="koe_tag.php"]
-koe-koe.com##p.tag_note
-
-!LINE・Xボタン
-koe-koe.com##.line_button
-
-!投稿削除＆コメ削除ボタン
-koe-koe.com##.del_button
-
-!コメントを書く
-koe-koe.com##form[action="koe_comment.php"]
 
 !
 !
