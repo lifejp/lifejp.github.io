@@ -1,5 +1,5 @@
 ! Title: togetter関連
-! Version: 20250206
+! Version: 20251017
 
 ! テスト用フィルター
 !作者　lifejp
@@ -39,6 +39,9 @@ posfie.com##.info_status_box:last-of-type
 
 
 !【下部】
+
+!記事直下「掲載ポストについて」
+togetter.com##.use_api_box
 
 !記事下タグBOX
 togetter.com##.tag_box:nth-of-type(-n+2)
