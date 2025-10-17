@@ -43,6 +43,9 @@ posfie.com##.info_status_box:last-of-type
 !記事下フォローミーBOX
 togetter.com##.follow_me_box
 
+!下部ライター募集
+togetter.com##.bosyu_banner
+
 !記事下「掲載ポストについて」
 togetter.com##.use_api_box
 posfie.com##.use_api_box
