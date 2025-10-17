@@ -107,6 +107,9 @@ posfie.com##.app_download_footer
 
 !【posfie専用】
 
+!記事内上部タイトル
+posfie.com##.headline_box
+
 !下部サポーターオプション
 posfie.com##.side_supporter_box
 
