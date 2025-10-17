@@ -40,7 +40,10 @@ posfie.com##.info_status_box:last-of-type
 
 !【下部】
 
-!記事直下「掲載ポストについて」
+!記事下フォローミーBOX
+togetter.com##.follow_me_box
+
+!記事下「掲載ポストについて」
 togetter.com##.use_api_box
 posfie.com##.use_api_box
 
