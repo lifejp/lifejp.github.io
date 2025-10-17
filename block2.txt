@@ -42,6 +42,7 @@ posfie.com##.info_status_box:last-of-type
 
 !記事直下「掲載ポストについて」
 togetter.com##.use_api_box
+posfie.com##.use_api_box
 
 !記事下タグBOX
 togetter.com##.tag_box:nth-of-type(-n+2)
